@@ -1,0 +1,20 @@
+## yaap_hotdogb-user 14 UQ1A.231205.014 eng.ido.20240101.234956 release-keys
+- Manufacturer: oneplus
+- Platform: msmnile
+- Codename: OnePlus7T
+- Brand: OnePlus
+- Flavor: yaap_hotdogb-user
+- Release Version: 14
+- Kernel Version: 4.14.190
+- Id: UQ1A.231205.014
+- Incremental: eng.ido.20240101.234956
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: OnePlus/yaap_hotdogb/hotdogb:14/UQ1A.231205.014/ido01012347:user/release-keys
+- OTA version: 
+- Branch: yaap_hotdogb-user-14-UQ1A.231205.014-eng.ido.20240101.234956-release-keys
+- Repo: oneplus_oneplus7t_dump
